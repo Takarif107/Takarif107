@@ -1,16 +1,28 @@
-## Hi there 👋
+# Takarif107
 
-<!--
-**Takarif107/Takarif107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Software Engineer
 
-Here are some ideas to get you started:
+I build modern, scalable digital experiences — from intuitive frontend interfaces to robust backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, building useful products, and turning ideas into functional software.
+
+### What I Do
+- Frontend Development
+- Backend Development
+- Database Design & Management
+- API Development & Integration
+- Responsive Web Applications
+
+### Currently Focused On
+- Building practical software products
+- Improving application architecture
+- Exploring better development workflows
+
+### Connect
+- **GitHub:** https://github.com/Takarif107
+- **Portfolio:** https://github.com/Takarif107
+- **Email:** Lafirn49@gmail.com
+
+---
+
+*Building with purpose. Improving with every project.*
