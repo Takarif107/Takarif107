@@ -26,6 +26,10 @@ I also work on user interface and experience design, creating clean, intuitive i
 | **Kaikeninu Main** | [View Design](https://www.figma.com/file/eLMLT2NKY8K2UetFiP4IWn/Kaikeninu-Main?node-id=0%3A3) |
 | **Wallet** | [View Design](https://www.figma.com/file/THHYHXd8AWmDr7qwRzKeDC/Wallet?node-id=0%3A3) |
 
+### Project Demo
+
+[Watch Video Demo](https://github.com/user-attachments/assets/dcf41d97-c685-4146-b2c3-028b43039e10))
+
 ### Currently Focused On
 
 - Building practical software products
